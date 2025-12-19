@@ -39,3 +39,6 @@ Order fulfillment status
 **Excel Functions & Formulas** – Calculations and KPIs
 **Data Cleaning** – Structuring and preprocessing raw data
 **Data Visualization** – Charts, slicers, and interactive filters
+
+Snapshot of dashboard
+Link: https://github.com/Priyanka1141/Store-Annual-Sales-Report-/blob/main/Snapshot%20of%20the%20store%20dashboard.png
